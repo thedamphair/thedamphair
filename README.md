@@ -1,10 +1,12 @@
-### Hi there 👋
-
+## Hello there 👋
+My name is Azael Contreras, I'm a software developer and a team leader, I'm from Mexico and I'm currently working at the supply chain business.
 <!--
 **thedamphair/thedamphair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ⚙️ Tools and Technologies  
+![](https://img.shields.io/badge/code-NodeJs-brightgreen?logo=node.js?style=flat&logoColor=white&color=2bbc8a)
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

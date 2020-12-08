@@ -2,7 +2,7 @@
 My name is Azael Contreras, I'm a software developer and a team leader, I'm from Mexico and I'm currently working at the supply chain business.
 
 ## ⚙️ Tools and Technologies  
-![](https://img.shields.io/badge/code-NodeJs?logo=node.js&style=flat&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-Javascript?logo=javascript&style=flat&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/code-JavaScript-yellow?logo=javascript&logoColor=white) ![](https://img.shields.io/badge/code-TypeScript-blue?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/code-Kotlin-brightgreen?logo=kotlin&logoColor=white) ![](https://img.shields.io/badge/code-Dart-brightgreen?logo=dart&logoColor=white)
 
 <!--
 - 🔭 I’m currently working on ...

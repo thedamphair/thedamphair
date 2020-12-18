@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/thedamphair/thedamphair/master/Aza-Portada-01.jpeg">
+
 ## Hello there 👋
 My name is Azael Contreras, I'm a software developer and a team leader, I'm from Mexico and I'm currently working at the supply chain business.
 

@@ -5,6 +5,8 @@ My name is Azael Contreras, I'm a software developer and a team leader, I'm from
 
 ## ⚙️ Tools and Technologies  
 ![](https://img.shields.io/badge/code-JavaScript-yellow?logo=javascript&logoColor=white) ![](https://img.shields.io/badge/code-TypeScript-blue?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/code-Kotlin-brightgreen?logo=kotlin&logoColor=white) ![](https://img.shields.io/badge/code-Dart-9cf?logo=dart&logoColor=white)
+![](https://img.shields.io/badge/database-MongoDB-brightgreen?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/cloud-Azure-blue?logo=microsoft-azure&logoColor=white)
 
 <!--
 - 🔭 I’m currently working on ...

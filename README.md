@@ -8,7 +8,7 @@ My name is Azael Contreras, I'm developing a wide range of tools for Web systems
 
 ![](https://img.shields.io/badge/env-NodeJS-green?logo=node.js&logoColor=white)![](https://img.shields.io/badge/framework-Angular-red?logo=angular&logoColor=white)![](https://img.shields.io/badge/framework-React-blue?logo=react&logoColor=white!)[](https://img.shields.io/badge/framework-ionic-9cf?logo=ionic&logoColor=white)![](https://img.shields.io/badge/os-Android-green?logo=android&logoColor=white)
 
-![](https://img.shields.io/badge/database-MongoDB-brightgreen?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/database-MongoDB-brightgreen?logo=mongodb&logoColor=white)![](https://img.shields.io/badge/database-PostgreSQL-blue?logo=postgresql&logoColor=white)
 
 ![](https://img.shields.io/badge/cloud-Azure-blue?logo=microsoft-azure&logoColor=white)![](https://img.shields.io/badge/cloud-AWS-yellow?logo=amazon-aws&logoColor=white)
 
